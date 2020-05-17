@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yanarc.github.io/"/>
-  <updated>2020-05-15T03:33:40.287Z</updated>
+  <updated>2020-05-17T15:08:10.711Z</updated>
   <id>https://yanarc.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java 概述</title>
+    <link href="https://yanarc.github.io/2020/05/17/learnjava200517/"/>
+    <id>https://yanarc.github.io/2020/05/17/learnjava200517/</id>
+    <published>2020-05-17T10:30:41.000Z</published>
+    <updated>2020-05-17T15:08:10.711Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Java-是什么&quot;&gt;&lt;a href=&quot;#Java-是什么&quot; class=&quot;headerlink&quot; title=&quot;Java 是什么&quot;&gt;&lt;/a&gt;Java 是什么&lt;/h2&gt;&lt;p&gt;Java 是 Sun Microsystems 于1995
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://yanarc.github.io/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="https://yanarc.github.io/tags/Java/"/>
+    
+      <category term="编程基础" scheme="https://yanarc.github.io/tags/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
   
   <entry>
     <title>我的博客搭建测试文章！</title>

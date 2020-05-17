@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Java 概述</title>
+      <link href="/2020/05/17/learnjava200517/"/>
+      <url>/2020/05/17/learnjava200517/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Java-是什么"><a href="#Java-是什么" class="headerlink" title="Java 是什么"></a>Java 是什么</h2><p>Java 是 Sun Microsystems 于1995 年⾸次发布的⼀种编程语⾔和计算平台。Java 主要分为三个版本<br>JavaSE(J2SE)(Java2 Platform Standard Edition， java平台标准版）<br>JavaEE(J2EE)(Java 2 Platform,Enterprise Edition， java平台企业版)<br>JavaME(J2ME)(Java 2 Platform Micro Edition， java平台微型版)。</p><h2 id="Java-的特点"><a href="#Java-的特点" class="headerlink" title="Java 的特点"></a>Java 的特点</h2><p>特点一：面向对象（Object Oriented）;<br>特点二：健壮性，摒弃了C++中难以理解的多继承、指针、内存管理等概念，不⽤⼿动管理对象的⽣命周期;<br>特点三：跨平台性，”Write once, run anywhere”;<br>特点四：功能强⼤和简单易⽤;<br>特点五：静态、编译性语言，执⾏效率要⽐动态语⾔⾼，速度更快;</p><h2 id="Java-开发环境"><a href="#Java-开发环境" class="headerlink" title="Java 开发环境"></a>Java 开发环境</h2><p>理解JDK、JRE和JVM三者之间的关系<br>JDK：Java Development Kit Java 开发工具包<br>     JDK = JRE + 开发工具集（javac.exe, java.exe, javadoc.exe）</p><p>JRE：Java Runtime Environpment Java 运行环境。包括Java虚拟机JVM和Java程序所需要的核心类库。<br>     JRE = JVM + Java SE核心类库</p><p><img src="/.io//guanxi.png" alt><br><img src="/.io//guanxi.png" alt></p><p>开发环境主要是能够使得代码的编写，编译，运行能顺利执行。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> 编程基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的博客搭建测试文章！</title>
       <link href="/2020/05/14/hello-world/"/>
       <url>/2020/05/14/hello-world/</url>
